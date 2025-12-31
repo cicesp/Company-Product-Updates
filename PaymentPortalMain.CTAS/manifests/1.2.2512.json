@@ -1,0 +1,9 @@
+{
+  "sha256": "C5FEBA1E9CBE21AE778A45AEB6226325FBE7FA7082E64D92A5F93569E5D701F5",
+  "version": "1.2.2512",
+  "tag": "CO-v1.2.2512",
+  "rollbackAllowed": true,
+  "released": "2025-12-31",
+  "installStrategy": "extract-and-swap",
+  "assetName": "PaymentPortalMain.CTAS-1.2.2512.zip.enc"
+}
