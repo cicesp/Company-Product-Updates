@@ -1,10 +1,10 @@
 {
-  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.CTAS/artifacts/",
-  "released": "2025-12-31",
-  "sha256": "7EEE094A830BE875EF3FE2FB45914E0961F5AE262260E46E9381BDEA0E2F5EBB",
-  "installStrategy": "extract-and-swap",
-  "assetName": "PaymentPortalMain.CTAS-1.2.2512.zip.enc",
+  "rollbackAllowed": true,
   "tag": "CO-v1.2.2512",
   "version": "1.2.2512",
-  "rollbackAllowed": true
+  "sha256": "45AB1155A48FBB5EBA5B89BA71A0F24FCD6B516FEE97A40D4AAF2AA8CD9B1D56",
+  "installStrategy": "extract-and-swap",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.CTAS/artifacts/PaymentPortalMain.CTAS-1.2.2512.zip.enc",
+  "assetName": "PaymentPortalMain.CTAS-1.2.2512.zip.enc",
+  "released": "2025-12-31"
 }
