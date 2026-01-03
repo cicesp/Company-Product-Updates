@@ -1,0 +1,12 @@
+{
+  "released": "2026-01-03",
+  "installStrategy": "extract-and-swap",
+  "sha256": "C1F143F622808E669BCE2100C053B973548DB2D94E28FEBABCEE276A7C6FA5DE",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.TAS/artifacts/PaymentPortalMain.TAS-4.3.2601.zip.enc",
+  "rollbackAllowed": true,
+  "tag": "KS-v4.3.2601",
+  "repoName": "Payment-Portal-Service",
+  "org": "cicesp",
+  "version": "4.3.2601",
+  "assetName": "PaymentPortalMain.TAS-4.3.2601.zip.enc"
+}
