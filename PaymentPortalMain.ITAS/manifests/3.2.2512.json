@@ -1,0 +1,12 @@
+{
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.ITAS/artifacts/PaymentPortalMain.ITAS-3.2.2512.zip.enc",
+  "org": "cicesp",
+  "assetName": "PaymentPortalMain.ITAS-3.2.2512.zip.enc",
+  "installStrategy": "extract-and-swap",
+  "released": "2026-01-03",
+  "rollbackAllowed": true,
+  "repoName": "Payment-Portal-Service",
+  "tag": "IL-v3.2.2512",
+  "sha256": "E273204CEC0C9B47921E8B96C10737F758745753F3BEE35A3E85477CB10231D9",
+  "version": "3.2.2512"
+}
