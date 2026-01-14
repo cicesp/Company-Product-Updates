@@ -1,12 +1,12 @@
 {
-  "sha256": "7A9AE040505ACE9225FC1E126C89171C91AEA6988942FD772CFD868F76790404",
-  "repoName": "TAS-KS",
   "version": "4.6.2601",
-  "rollbackAllowed": true,
-  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-KS/artifacts/TAS-KS-4.6.2601.zip.enc",
-  "released": "2026-01-07",
+  "released": "2026-01-14",
   "tag": "KS-v4.6.2601",
+  "assetName": "TAS-KS-4.6.2601.zip.enc",
+  "rollbackAllowed": true,
   "installStrategy": "extract-and-swap",
-  "org": "cicesp",
-  "assetName": "TAS-KS-4.6.2601.zip.enc"
+  "sha256": "8FB944BEC8BFCFA53F348FD84F161824F823153E6CD2DE568BC28F8E1C20BA8A",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-KS/artifacts/TAS-KS-4.6.2601.zip.enc",
+  "repoName": "TAS-KS",
+  "org": "cicesp"
 }
