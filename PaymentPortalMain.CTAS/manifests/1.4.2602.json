@@ -1,0 +1,12 @@
+{
+  "version": "1.4.2602",
+  "released": "2026-02-13",
+  "tag": "CO-v1.4.2602",
+  "assetName": "PaymentPortalMain.CTAS-1.4.2602.zip.enc",
+  "rollbackAllowed": true,
+  "installStrategy": "extract-and-swap",
+  "sha256": "843EF50BB4DE3C187F5A73654D0DB939425FFE06C1B898D41ED5F065A3905243",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.CTAS/artifacts/PaymentPortalMain.CTAS-1.4.2602.zip.enc",
+  "repoName": "Payment-Portal-Service",
+  "org": "cicesp"
+}
