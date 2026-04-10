@@ -5,7 +5,7 @@
   "assetName": "TAS-CO-1.2.2604.zip.enc",
   "rollbackAllowed": true,
   "installStrategy": "extract-and-swap",
-  "sha256": "8AC78A61F899E5515ADC4A7E569560C5676EF9546ED7FB95793251125E6A858E",
+  "sha256": "A97B4683E058A24264EEA9CB38AEFE6B6FB54C25A094CCBFB2A2B4346CD3DB7F",
   "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-CO/artifacts/TAS-CO-1.2.2604.zip.enc",
   "repoName": "TAS-CO",
   "org": "cicesp"
