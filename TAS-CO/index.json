@@ -1,5 +1,5 @@
 {
-  "Latest": "1.2.2604",
+  "Latest": "1.3.2604",
   "Versions": [
     {
       "Version": "1.2.2601",
@@ -8,6 +8,10 @@
     {
       "Version": "1.2.2604",
       "Manifest": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-CO/manifests/1.2.2604.json"
+    },
+    {
+      "Version": "1.3.2604",
+      "Manifest": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-CO/manifests/1.3.2604.json"
     }
   ]
 }
