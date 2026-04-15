@@ -1,0 +1,12 @@
+{
+  "version": "1.5.2604",
+  "released": "2026-04-15",
+  "tag": "CO-v1.5.2604",
+  "assetName": "TAS-CO-1.5.2604.zip.enc",
+  "rollbackAllowed": true,
+  "installStrategy": "extract-and-swap",
+  "sha256": "CE9A7AB42CC8F85D694A33177934DE9C49E3C00F2BC749227A9D259BF3561A89",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-CO/artifacts/TAS-CO-1.5.2604.zip.enc",
+  "repoName": "TAS-CO",
+  "org": "cicesp"
+}
