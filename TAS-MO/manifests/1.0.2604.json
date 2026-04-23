@@ -1,0 +1,12 @@
+{
+  "version": "1.0.2604",
+  "released": "2026-04-23",
+  "tag": "MO-v1.0.2604",
+  "assetName": "TAS-MO-1.0.2604.zip.enc",
+  "rollbackAllowed": true,
+  "installStrategy": "extract-and-swap",
+  "sha256": "A85AEA0C987D1DE42CD14EADA5A7F07EC71406ACDCF1581E057218FCC26EB804",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-MO/artifacts/TAS-MO-1.0.2604.zip.enc",
+  "repoName": "TAS-MO",
+  "org": "cicesp"
+}
