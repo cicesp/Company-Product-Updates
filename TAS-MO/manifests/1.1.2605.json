@@ -5,7 +5,7 @@
   "assetName": "TAS-MO-1.1.2605.zip.enc",
   "rollbackAllowed": true,
   "installStrategy": "extract-and-swap",
-  "sha256": "61EF7BACA7A9D566DDBDBBAB490F3D1ADE93B8998DBADB5221B60C7A7603AE56",
+  "sha256": "5871DA4D94C02238FD99CD3918FEC6B00B4FCE2DE44ED9F0F883CBC64525BB49",
   "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-MO/artifacts/TAS-MO-1.1.2605.zip.enc",
   "repoName": "TAS-MO",
   "org": "cicesp"
