@@ -5,7 +5,7 @@
   "assetName": "TAS-IL-3.5.2605.zip.enc",
   "rollbackAllowed": true,
   "installStrategy": "extract-and-swap",
-  "sha256": "EE756F10B1243348AF63267E525504DD54BE991A4B3419539C5D8941AA9F55BA",
+  "sha256": "0E12027EA8CD503ADF01E953EAF5E7B9025C8E2DF676D5551BB649C6FCBEBD02",
   "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-IL/artifacts/TAS-IL-3.5.2605.zip.enc",
   "repoName": "TAS-IL",
   "org": "cicesp"
