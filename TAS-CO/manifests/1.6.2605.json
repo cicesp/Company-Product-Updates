@@ -1,11 +1,11 @@
 {
   "version": "1.6.2605",
-  "released": "2026-05-05",
+  "released": "2026-05-20",
   "tag": "CO-v1.6.2605",
   "assetName": "TAS-CO-1.6.2605.zip.enc",
   "rollbackAllowed": true,
   "installStrategy": "extract-and-swap",
-  "sha256": "9E99FE8191B043442451937B94B6C850259F96E6316434DCF586535595DB1F4A",
+  "sha256": "03171E6DF5143C3008B339537A89AD70F1B450ECB23A4B7E4E6430F93A2BE3E5",
   "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-CO/artifacts/TAS-CO-1.6.2605.zip.enc",
   "repoName": "TAS-CO",
   "org": "cicesp"
