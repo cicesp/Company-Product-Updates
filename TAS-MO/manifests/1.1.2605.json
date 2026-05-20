@@ -1,11 +1,11 @@
 {
   "version": "1.1.2605",
-  "released": "2026-05-04",
+  "released": "2026-05-20",
   "tag": "MO-v1.1.2605",
   "assetName": "TAS-MO-1.1.2605.zip.enc",
   "rollbackAllowed": true,
   "installStrategy": "extract-and-swap",
-  "sha256": "5871DA4D94C02238FD99CD3918FEC6B00B4FCE2DE44ED9F0F883CBC64525BB49",
+  "sha256": "671A60EFFCBEF687AEE62B94DF7138402ECADBC7075E2103F3547491D68789DA",
   "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-MO/artifacts/TAS-MO-1.1.2605.zip.enc",
   "repoName": "TAS-MO",
   "org": "cicesp"
