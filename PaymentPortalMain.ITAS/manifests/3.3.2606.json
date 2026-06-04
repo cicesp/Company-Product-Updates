@@ -5,7 +5,7 @@
   "assetName": "PaymentPortalMain.ITAS-3.3.2606.zip.enc",
   "rollbackAllowed": true,
   "installStrategy": "extract-and-swap",
-  "sha256": "CA86F4E7865893B4970377A6A2CE5DE7472B77849EF90F0B5201280A63B223D5",
+  "sha256": "ADF63B8AE4F5B0CC15A9E0134B6CF049175D8AEDAC4B584AC5DEF1A5B794823E",
   "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.ITAS/artifacts/PaymentPortalMain.ITAS-3.3.2606.zip.enc",
   "repoName": "Payment-Portal-Service",
   "org": "cicesp"
