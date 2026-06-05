@@ -1,0 +1,12 @@
+{
+  "version": "3.4.2606",
+  "released": "2026-06-05",
+  "tag": "IL-v3.4.2606",
+  "assetName": "PaymentPortalMain.ITAS-3.4.2606.zip.enc",
+  "rollbackAllowed": true,
+  "installStrategy": "extract-and-swap",
+  "sha256": "D2E9D0E5A737C7D8FCCD13B4988A00E3EF3522C68AA25D4F740F5FBB6DF39A2E",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.ITAS/artifacts/PaymentPortalMain.ITAS-3.4.2606.zip.enc",
+  "repoName": "Payment-Portal-Service",
+  "org": "cicesp"
+}
