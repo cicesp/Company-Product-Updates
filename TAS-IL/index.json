@@ -1,5 +1,5 @@
 {
-  "Latest": "3.8.2607",
+  "Latest": "3.6.2607",
   "Versions": [
     {
       "Version": "3.2.2601",
@@ -21,13 +21,5 @@
       "Version": "3.6.2607",
       "Manifest": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-IL/manifests/3.6.2607.json"
     },
-    {
-      "Version": "3.7.2607",
-      "Manifest": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-IL/manifests/3.7.2607.json"
-    },
-    {
-      "Version": "3.8.2607",
-      "Manifest": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-IL/manifests/3.8.2607.json"
-    }
   ]
 }
