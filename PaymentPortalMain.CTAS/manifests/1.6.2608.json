@@ -1,0 +1,12 @@
+{
+  "version": "1.6.2608",
+  "released": "2026-08-20",
+  "tag": "CO-v1.6.2608",
+  "assetName": "PaymentPortalMain.CTAS-1.6.2608.zip.enc",
+  "rollbackAllowed": true,
+  "installStrategy": "extract-and-swap",
+  "sha256": "68DD045524E95AC533E41F36F2E7054ABF598F8141551809A2B6764805D7BCBE",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.CTAS/artifacts/PaymentPortalMain.CTAS-1.6.2608.zip.enc",
+  "repoName": "Payment-Portal-Service",
+  "org": "cicesp"
+}

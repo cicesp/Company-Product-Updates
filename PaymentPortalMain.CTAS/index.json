@@ -1,5 +1,5 @@
 {
-  "Latest": "1.4.2601",
+  "Latest": "1.6.2608",
   "Versions": [
     {
       "Version": "1.2.2512",
@@ -16,6 +16,10 @@
     {
       "Version": "1.4.2602",
       "Manifest": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.CTAS/manifests/1.4.2602.json"
+    },
+    {
+      "Version": "1.6.2608",
+      "Manifest": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/PaymentPortalMain.CTAS/manifests/1.6.2608.json"
     }
   ]
 }
