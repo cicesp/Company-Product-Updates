@@ -1,0 +1,12 @@
+{
+  "version": "4.9.2609.1",
+  "released": "2026-09-01",
+  "tag": "KS-v4.9.2609.1",
+  "assetName": "TAS-KS-4.9.2609.1.zip.enc",
+  "rollbackAllowed": true,
+  "installStrategy": "extract-and-swap",
+  "sha256": "973DBA33919CE014617413789925987BF2D5BB365006E9848C6E391A4E0A24DF",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-KS/artifacts/TAS-KS-4.9.2609.1.zip.enc",
+  "repoName": "TAS-KS",
+  "org": "cicesp"
+}
