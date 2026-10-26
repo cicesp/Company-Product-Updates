@@ -5,7 +5,7 @@
   "assetName": "TAS-KS-4.12.2610.0.zip.enc",
   "rollbackAllowed": true,
   "installStrategy": "extract-and-swap",
-  "sha256": "32273F519417D2FDBEF2EFE0678D75C6122AC0DF3EC0F79D3A74C32164F3917B",
+  "sha256": "7570B94199D4FF1F9FD314B6E000ACA85DF318497FC7CD5B33612EF5859DB4CA",
   "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-KS/artifacts/TAS-KS-4.12.2610.0.zip.enc",
   "repoName": "TAS-KS",
   "org": "cicesp"
