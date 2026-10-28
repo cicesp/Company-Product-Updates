@@ -1,0 +1,12 @@
+{
+  "version": "3.9.2610.0",
+  "released": "2026-10-28",
+  "tag": "IL-v3.9.2610.0",
+  "assetName": "TAS-IL-3.9.2610.0.zip.enc",
+  "rollbackAllowed": true,
+  "installStrategy": "extract-and-swap",
+  "sha256": "7161D940BB25DFEE86685E6C307313ED0E1E4B6150C0DB97684AD2FB318A1650",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-IL/artifacts/TAS-IL-3.9.2610.0.zip.enc",
+  "repoName": "TAS-IL",
+  "org": "cicesp"
+}
