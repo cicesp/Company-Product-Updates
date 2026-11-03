@@ -1,0 +1,12 @@
+{
+  "version": "1.7.2611.2",
+  "released": "2026-11-03",
+  "tag": "CO-v1.7.2611.2",
+  "assetName": "TAS-CO-1.7.2611.2.zip.enc",
+  "rollbackAllowed": true,
+  "installStrategy": "extract-and-swap",
+  "sha256": "905C942DEE41D0924E7B4599650A9C1513F67377AA16DB7A40935E2F049C14F7",
+  "assetUrl": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-CO/artifacts/TAS-CO-1.7.2611.2.zip.enc",
+  "repoName": "TAS-CO",
+  "org": "cicesp"
+}
