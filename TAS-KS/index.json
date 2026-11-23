@@ -1,5 +1,5 @@
 {
-  "Latest": "4.13.2611.1",
+  "Latest": "4.14.2611.0",
   "Versions": [
     {
       "Version": "4.6.2601",
@@ -56,6 +56,10 @@
     {
       "Version": "4.13.2611.1",
       "Manifest": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-KS/manifests/4.13.2611.1.json"
+    },
+    {
+      "Version": "4.14.2611.0",
+      "Manifest": "https://raw.githubusercontent.com/cicesp/Company-Product-Updates/main/TAS-KS/manifests/4.14.2611.0.json"
     }
   ]
 }
